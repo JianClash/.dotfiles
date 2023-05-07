@@ -1,0 +1,16 @@
+# Blocklist files/folders in same directory as the .gitignore file
+/*
+
+# Includelist some files
+!.gitignore
+!README.md
+
+#Includelist some folders
+!alacritty/
+!i3/
+!mpd/
+!ncmpcpp
+!nvim/
+!polybar/
+!picom.conf
+
