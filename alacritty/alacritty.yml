@@ -3,7 +3,7 @@ font:
     family: DroidSansM NerdFont Mono
     style: Regular
   
-  size: 15
+  size: 13
 
 window:
   opacity: 1.0
