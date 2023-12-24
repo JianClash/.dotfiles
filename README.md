@@ -5,4 +5,4 @@
 ### Editor: [Neovim](https://neovim.io/)
 ### WM: [i3](https://i3wm.org/)
 
-![](rice1.png)
+![](preview.png)
